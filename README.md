@@ -96,7 +96,6 @@ Repo vẫn hỗ trợ đầy đủ các bộ dữ liệu chuẩn như Human3.6M,
 
 ## Tài liệu tham khảo & Code gốc
 
-- [MotionAGFormer (code gốc)](https://github.com/Mehraban-s/MotionAGFormer)
 - [MotionBERT](https://github.com/Walter0807/MotionBERT)
 - [P-STMO](https://github.com/paTRICK-swk/P-STMO)
 - [MHFormer](https://github.com/Vegetebird/MHFormer)
