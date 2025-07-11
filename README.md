@@ -51,7 +51,19 @@ demo/Dataset/
 Repo vẫn hỗ trợ đầy đủ các bộ dữ liệu chuẩn như Human3.6M, MPI-INF-3DHP. Xem hướng dẫn chi tiết trong thư mục `configs/` hoặc phần bên dưới.
 
 ---
+### 3. Tải các model Checkpoint cho dự án.
+```
+demo/lib/
+  └── checkpoint/
+      ├── pose_hrnet_w48_384x288.pth
+      └── yolov3.weights
 
+MotionAGFormer/
+  └── checkpoint/
+      └── motionagformer-b-h36m.pth.tr
+
+- [Link tải model](https://drive.google.com/drive/folders/1xrA_qjnlvEXbuEze675aQ1W5kbmnzB8S?usp=sharing)
+```
 ## Hướng dẫn trích xuất đặc trưng từ video Ewalk
 
 1. **Đặt video Ewalk vào thư mục** `demo/Video/`.
