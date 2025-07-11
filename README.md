@@ -54,10 +54,10 @@ Repo vẫn hỗ trợ đầy đủ các bộ dữ liệu chuẩn như Human3.6M,
 
 ## Hướng dẫn trích xuất đặc trưng từ video Ewalk
 
-1. **Đặt video Ewalk vào thư mục** `demo/Dataset/` theo cấu trúc trên.
+1. **Đặt video Ewalk vào thư mục** `demo/Video/`.
 2. **Chạy script trích xuất đặc trưng** (ví dụ):
    ```bash
-   python demo/vis.py --video demo/Dataset/VID_RGB_000/VID_RGB_000.mp4
+   python demo/vis.py
    ```
    - Kết quả sẽ được lưu trong các thư mục `pose2D`, `pose3D`, `input_2D` dưới mỗi video.
    - Đặc trưng 2D/3D và keypoints sẽ được lưu dưới dạng `.npz` hoặc `.png` (tùy script).
