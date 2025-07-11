@@ -88,7 +88,7 @@ Repo vẫn hỗ trợ đầy đủ các bộ dữ liệu chuẩn như Human3.6M,
 - Đặt video vào `demo/Video/`
 - Chạy:
   ```bash
-  python demo/vis.py --video demo/Video/sample_video.mp4
+  python demo/vis.py
   ```
 - Kết quả sẽ được lưu trong `demo/output/` hoặc các thư mục tương ứng.
 
