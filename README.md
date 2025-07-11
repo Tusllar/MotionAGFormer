@@ -62,8 +62,9 @@ MotionAGFormer/
   └── checkpoint/
       └── motionagformer-b-h36m.pth.tr
 
-- [Link tải model](https://drive.google.com/drive/folders/1xrA_qjnlvEXbuEze675aQ1W5kbmnzB8S?usp=sharing)
 ```
+- [Link tải model](https://drive.google.com/drive/folders/1xrA_qjnlvEXbuEze675aQ1W5kbmnzB8S?usp=sharing)
+
 ## Hướng dẫn trích xuất đặc trưng từ video Ewalk
 
 1. **Đặt video Ewalk vào thư mục** `demo/Video/`.
