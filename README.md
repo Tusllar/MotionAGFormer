@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### 1. Bộ dữ liệu Ewalk (84 video)
 
-Repo đã được chỉnh sửa để hỗ trợ trích xuất đặc trưng từ 84 video của bộ dữ liệu Ewalk. Bạn cần chuẩn bị dữ liệu video Ewalk theo cấu trúc sau:
+Repo đã được chỉnh sửa để hỗ trợ trích xuất đặc trưng từ 84 video của bộ dữ liệu Ewalk. Sau khi thực hiện bạn sẽ có cấu trúc dữ liệu như dưới đây:
 
 ```
 demo/Dataset/
@@ -85,7 +85,7 @@ Repo vẫn hỗ trợ đầy đủ các bộ dữ liệu chuẩn như Human3.6M,
 
 ## Demo trực quan
 
-- Đặt video vào `demo/Video/`
+- Bạn cần chuẩn bị dữ liệu video Ewalk theo cấu trúc sau. Đặt video vào `demo/Video/`.
 - Chạy:
   ```bash
   python demo/vis.py
